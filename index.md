@@ -8,9 +8,10 @@ Bu sayfa içerisinde
 * Derslere ait repositoryler
 * Ödevler
 * Duuyurular
+
 Paylaşılmaktadır.
 
-Sayfa yönetimi [Dr. Alaettin UÇAN](aucan.github.io) tarafından yapılmaktadır. 
+Sayfa yönetimi [Dr. Alaettin UÇAN](https://aucan.github.io/) tarafından yapılmaktadır. 
 
 
 
